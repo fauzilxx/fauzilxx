@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello World! 👋  <br><br>I'm Fauzil, an Informatics student at Sebelas Maret University 🎓  <br>I love building things on the web 🌐 and improving my programming skills every day 💻✨  <br>Currently learning and exploring new technologies 🚀
+# 💫 Hello World! 👋
+  <br><br>I'm Fauzil, an Informatics student at Sebelas Maret University 🎓  <br>I love building things on the web 🌐 and improving my programming skills every day 💻✨  <br>Currently learning and exploring new technologies 🚀
 
 
 ## 🌐 Socials:
